@@ -1,9 +1,9 @@
 
-# 🌸 Dart 01
+#  Dart 01
 
 My first Dart mini project built while learning Dart basics 🚀
 
-## 📱 Project Overview
+##  Project Overview
 
 This project prints basic introduction details using Dart variables and print statements.
 
